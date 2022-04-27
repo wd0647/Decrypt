@@ -1,0 +1,67 @@
+.table{
+	margin-top: 20px;
+}
+
+.DataTable img{
+	max-width: 50px;
+}
+
+.DataTable.image{
+	margin-right: 30px;
+}
+
+.dataTableIcon{
+   border:none;
+   background-color:transparent;
+   outline:none;
+}
+
+.DataTableIconContainer{
+	text-align: right;
+	margin-top: 40px;
+}
+
+.DataTableIconContainer.bottom{
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+
+.DataTable .inline{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.DataTable p{
+	margin-bottom: 0;
+}
+
+.DataTable th{
+	font-size: 10px;
+}
+
+.DataTable .center{
+	text-align: center;
+}
+
+.DataTable .info{
+	padding: 3px 5px 3px 5px;
+	font-size: 10px;
+	color:  #fff;
+	margin-bottom: 5px;
+}
+
+.DataTable .info.red{
+	background:  red;
+}
+
+.DataTable .info.blue{
+	background:  blue;
+}
+
+.DataTable .info.deprecated{
+	background:  red;
+}
+
+.DataTable .info.loan{
+	background:  blue;
+}
